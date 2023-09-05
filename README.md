@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tboloo
-- 👀 I’m interested in Azure, DevOps and Salesforce
-- 🌱 I’m currently learning Azure flavoured Terraform and Salesforce
-- 💞️ I’m looking to collaborate on IaC and Azure projects, with emphasis on Functions/Event Hubs/CosmosDB
+- 👀 I’m interested in many things tech: Azure, DevOps, Salesforce, functional programming, web3
 - 📫 How to reach me: find me here on github, or LinkedIn
 
 <!---
